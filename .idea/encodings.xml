@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dim/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dim/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-interaction-comment-info/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-interaction-comment-info/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-cart-add/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-cart-add/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-order-cancel-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-order-cancel-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-order-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-dwd-trade-order-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-trade-order-pay-suc-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/flink-realtime-trade-order-pay-suc-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dwd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-trade-cart-add-uu-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-trade-cart-add-uu-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-traffic-home-detail-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-traffic-home-detail-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-traffic-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-traffic-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-dws-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-user-login-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/flink-realtime-user-login-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/realtime-dws-trade-sku-order-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/realtime-dws-trade-sku-order-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-dws/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/flink-realtime-publisher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liubo_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runbo_zhang_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runbo_zhang_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/realtime-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/realtime-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/realtime-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/realtime-stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runze_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yinshi_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yinshi_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yuxin_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yuxin_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zeyang_dev_realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zeyang_dev_realtime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zheyuan_liu_dev_realtime/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
